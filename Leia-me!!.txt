@@ -1,0 +1,15 @@
+CRUD Delphi
+----------------------------------------------
+O Sistema foi desenvolvido com fins didáticos. 
+
+Foi utilizado a linguagem de programação Object Pascal, a IDE Embarcadero® Delphi 10.3 Version 26.0.36039.7899, FireDAC para o acesso aos dados, SGBD SQLite.
+
+Foi utilizado como padrão a arquitetura MVC. 
+
+O Sistema foi feito utilizando o paradigma de programação Orientado a Objetos, aplicando boas práticas de desenvolvimento e Clean Code, foi usado em algumas classes o Design Patern Singleton, e um pouquinho de generics. 
+
+Observação I: Para reiniciar o banco de dados do projeto é só excluir o arquivo dados.db da pasta database e executar novamente o aplicação que o banco será criado novamente.
+
+Observação II: Não foi utilizado o SQLServer como pedido no documento do projeto, pois eu queria utlizar o Firedac e na versão da IDE que eu tenho o FireDAC não possui o driver para SQL Server.
+
+@Autor: José Batista Lira Júnior
