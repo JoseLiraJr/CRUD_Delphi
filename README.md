@@ -2,7 +2,7 @@
 <p align="center">CRUD desenvolvido na linguagem de programação Delphi/Pascal</p>
 
 
-CRUD desenvolvido em DelPhi, com cadastro de pessoa e endereços e consumo da API [**Acessar Site**](https://viacep.com.br/) para consulta do CEP . 
+CRUD desenvolvido em DelPhi, com cadastro de pessoa e endereços e consumo da API [**ViaCEP**](https://viacep.com.br/) para consulta do CEP . 
 
 ### 🛠 Tecnologias
 
